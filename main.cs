@@ -26,7 +26,7 @@ class Program
         height = float.Parse(Console.ReadLine());
 
         //Process
-        volume = ((length * width * height) /3);
+        volume = ((length * width * height) / 3);
 
         //Output
         Console.WriteLine("");
